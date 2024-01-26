@@ -37,13 +37,13 @@ data: () => ({
 </script>
 
 <style>
-.border {
+/* .border {
     margin-left: 8px;
     margin-right: 8px;
     background: #704232;
     border-radius: 20px;
     text-decoration: none;
-}
+} */
 .v-list-item-group .v-list-item--active {
     color: white !important;
 }

@@ -158,8 +158,11 @@ export default {
 </script>
 
 <style>
-    .v-card.borderme{
+    /* .v-card.borderme{
         border:2px solid #704232 !important;
+    } */
+    .v-card {
+        box-sizing: border-box;
     }
     .col-12 {
         padding: 5px !important;
